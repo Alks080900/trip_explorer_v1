@@ -21,7 +21,7 @@ Make sure you have the following installed on your machine:
    npm install
    npm start
 
-###Backend
+### Backend
 2. Navigate to the `server` folder:
   ```bash
     cd server
