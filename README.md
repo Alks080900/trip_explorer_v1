@@ -20,11 +20,9 @@ Make sure you have the following installed on your machine:
    cd frontend
    npm install
    npm start
-
 ### Backend
 2. Navigate to the `server` folder:
   ```bash
     cd server
     npm install
     npm run dev
-    
